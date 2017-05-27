@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-admin:5.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-admin/5.0.0/976d3d2e38761e2a3942eadea23f7d4637c811bb/firebase-admin-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-admin/5.0.0/2f182b95d5ccbf8c25eecf74bb8a6721f272f9a9/firebase-admin-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,3 @@
+selenium==3.4.2
+splinter==0.7.5
+pyrebase==3.0.27
